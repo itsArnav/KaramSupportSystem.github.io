@@ -1,0 +1,239 @@
+
+    #l
+    {
+        float:left;
+        font-family: orange juice;
+        height:150px;
+    width:20%;
+    text-align:left;    
+    //border: 1px solid;
+    margin-top: 50px;
+    color: #571845;
+    margin-left: 80px;
+    }
+    #r
+    {
+        font-family: artifika;
+        float:right;
+        height:150px;
+    width:70%;
+    text-align: left;
+    //border:1px solid;
+    margin-top: 50px;
+    }
+    
+    #header
+{
+    width:100%;
+    height:153px;
+      //background-color: yellow;
+     margin-top: -2px;
+      margin: 0px auto;
+       box-shadow: -2px -2px 35px #000000;
+}
+#logo
+{
+    width:150px;
+    height:150px;
+    float:left;
+    background-color:silver;
+    margin-left: 10px;
+    //border: 2px solid red;
+    margin-top: 2px;
+    
+   
+}
+#banner
+{
+    width:850px;
+    height:150px;
+   // background-color: khaki;
+    float:left;
+   // border: 1px solid darkslategray;
+   margin-top: -6px;
+    //box-shadow: -2px -2px 35px black;
+}
+#menu
+{
+    height: 50px;
+    width: 80%;
+    margin-top: 20px;
+    background-color: #571845;
+    //border: 1px solid;
+    color: black;
+    margin: 0px auto;
+      box-shadow: -2px -2px 35px #000000;
+    
+}
+#menu ul
+{
+list-style-type:none;
+}
+#menu ul li
+{
+display:inline-block;
+padding:4px;
+width:100px;
+color:white;
+font-family:arial;
+text-align:center;
+border-right: 1px solid grey;
+}
+#menu ul li a
+{
+text-decoration: none;
+color:white;
+font-family:arial;
+}
+#menu ul li :hover
+{
+color:#fdf11b;
+
+}
+.cs
+{
+    height:250px;
+    width:80%;
+    background-color: #e0e0e0;
+    margin: 0px auto;
+   // box-shadow: -2px -2px 35px #000000;
+}
+.cs2
+{
+    height:250px;
+    width:80%;
+    background-color: #ededed;
+    margin: 0px auto;
+    //box-shadow: -2px -2px 35px #000000;
+}
+
+/* #r9
+{
+height:250px;
+width:100%;
+//border:1px solid;
+margin:0px auto;
+//margin-top:-1px;
+    background-color: #333333;
+}
+#out3
+{
+height:250px;
+width:80%;
+border:1px solid;
+border-bottom: none;
+margin:0px auto;
+}
+	.g1
+	{
+	height:198px;
+	width:255px;
+	background-color:#333333;
+	float:left;
+	font-family: Bahnschrift Light;
+    font-size: 30px;
+	color:white;
+	    text-align: left;
+	    padding-top: 52px;
+		padding-left:66px;
+	}
+
+#r10
+{
+    height: 60px;
+    width: 80%;
+    margin:0px auto;
+    border: 1px solid;
+   
+    background-color: #202020;
+}
+#nich
+{
+    height: 52px;
+    width: 345px;
+    //border: 1px solid white;
+    //margin-left: 65px;
+	background-image:url('niche.png');
+	 background-repeat: no-repeat;
+	background-position: right;
+	background-size: cover;
+        margin-top: 5px;
+        padding:4px;
+        margin-left:50px;
+}
+.dp
+{
+     
+    height: 40px;
+    width:40px;
+    float:left;
+    //border:1px solid white;
+    padding: 4px;
+    
+}
+
+*/
+
+#r9 {
+    height: 183px;
+    width: 80%;
+    margin: 0px auto;
+    background-color: #333333;
+      //box-shadow: -2px -2px 35px #000000;
+}
+#out3 {
+    height: 153px;
+    width: 80%;
+    //border: 1px solid;
+    margin: 0px auto;
+    background-color: #333333;
+    border-bottom: none;
+    box-shadow: -2px -2px 35px #000000;
+    margin-top: 5px;
+}
+	.g1 {
+    height: 123px;
+    width: 255px;
+    background-color: #333333;
+    float: left;
+    font-family: Bahnschrift Light;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 22px;
+    /* margin-top: 0px; */
+}
+
+#r10
+{
+    height: 60px;
+    width: 80%;
+    margin:0px auto;
+    //border: 1px solid;
+    background-color: #202020;
+    box-shadow: -2px -2px 35px black;
+}
+#nich
+{
+    height: 52px;
+    //width: 345px;
+    //border: 1px solid white;
+    margin-left: 65px;
+	//background-image:url('niche.png');
+	 background-repeat: no-repeat;
+	background-position: right;
+	background-size: cover;
+        margin-top: 5px;
+        border-top:none;
+	}
+.dp
+{
+     
+    height: 40px;
+    width:40px;
+    float:left;
+    //border:1px solid white;
+    padding: 10px;
+    
+}
